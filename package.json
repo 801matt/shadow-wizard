@@ -1,0 +1,22 @@
+{
+  "name": "shadow-wizard-801matt",
+  "version": "1.0.0",
+  "description": "Get perfect shadows every time for the non-designer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/801matt/shadow-wizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Matt Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/801matt/shadow-wizard/issues"
+  },
+  "homepage": "https://github.com/801matt/shadow-wizard#readme"
+}
