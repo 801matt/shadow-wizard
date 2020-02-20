@@ -14,4 +14,4 @@ const shadowWizard = options => {
   });
 };
 
-module.exports.shadowWizard = shadowWizard;
+export default shadowWizard;
